@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1E349D121D8E81A0007F5637 /* alarm.in in Resources */ = {isa = PBXBuildFile; fileRef = 1E349D111D8E81A0007F5637 /* alarm.in */; };
 		1EA06B691D88500E003FAB63 /* iphone7.py in Resources */ = {isa = PBXBuildFile; fileRef = 1EA06B681D88500E003FAB63 /* iphone7.py */; };
+		1EC28D9D1FFB6C610044BDD3 /* iphoneX.py in Resources */ = {isa = PBXBuildFile; fileRef = 1EC28D9C1FFB6C610044BDD3 /* iphoneX.py */; };
 		1ECACACB1D87CDA200755182 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECACACA1D87CDA200755182 /* AppDelegate.m */; };
 		1ECACACE1D87CDA200755182 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECACACD1D87CDA200755182 /* main.m */; };
 		1ECACAD11D87CDA200755182 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECACAD01D87CDA200755182 /* ViewController.m */; };
@@ -45,6 +46,7 @@
 /* Begin PBXFileReference section */
 		1E349D111D8E81A0007F5637 /* alarm.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = alarm.in; sourceTree = "<group>"; };
 		1EA06B681D88500E003FAB63 /* iphone7.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = iphone7.py; sourceTree = "<group>"; };
+		1EC28D9C1FFB6C610044BDD3 /* iphoneX.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = iphoneX.py; sourceTree = "<group>"; };
 		1ECACAC61D87CDA200755182 /* iPhoneStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhoneStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ECACAC91D87CDA200755182 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1ECACACA1D87CDA200755182 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 		1ECACACC1D87CDA200755182 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1EC28D9C1FFB6C610044BDD3 /* iphoneX.py */,
 				1EA06B681D88500E003FAB63 /* iphone7.py */,
 				1ECACAF91D88101900755182 /* 7.png */,
 				1ECACAFA1D88101900755182 /* 7p.png */,
@@ -265,6 +268,7 @@
 				1ECACAFE1D88101900755182 /* 7p.png in Resources */,
 				1ECACAFB1D88101900755182 /* 7.png in Resources */,
 				1E349D121D8E81A0007F5637 /* alarm.in in Resources */,
+				1EC28D9D1FFB6C610044BDD3 /* iphoneX.py in Resources */,
 				1EA06B691D88500E003FAB63 /* iphone7.py in Resources */,
 				1ECACAD31D87CDA200755182 /* Assets.xcassets in Resources */,
 				1ECACAD61D87CDA200755182 /* Main.storyboard in Resources */,
